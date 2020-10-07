@@ -16,3 +16,6 @@ C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Application\obj\D
 C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CoreCompileInputs.cache
 C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.dll
 C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Application\bin\Debug\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Application\obj\Debug\netcoreapp3.1\Projeto.Application.csproj.CopyComplete
