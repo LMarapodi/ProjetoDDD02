@@ -7,7 +7,6 @@ C:\Users\lucas\Desktop\Aulas\ProjetoApi\ProjetoDDD02\Projeto.Domain\obj\Debug\ne
 C:\Users\lucas\Desktop\Aulas\ProjetoApi\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
 C:\Users\lucas\Desktop\Aulas\ProjetoApi\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.dll
 C:\Users\lucas\Desktop\Aulas\ProjetoApi\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.pdb
-C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csprojAssemblyReference.cache
 C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
 C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
 C:\Users\lucas\Desktop\Aulas\ProjetoDDD02\ProjetoDDD02\Projeto.Domain\obj\Debug\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache

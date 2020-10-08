@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Projeto.Domain.Entities;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Projeto.Domain.Contracts.Services
 {
-    interface IFornecedorDomainService
+    public interface IFornecedorDomainService : IBaseDomainService<Fornecedor>
     {
+        Fornecedor GetByCnpj(string cnpj);
     }
 }
